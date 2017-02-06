@@ -1,0 +1,4 @@
+.env
+.terraform
+terraform*
+src/node_modules
